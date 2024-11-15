@@ -21,7 +21,7 @@
 
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choihywon&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choihywon&show_icons=true&theme=radical&count_private=true&hide=prs&hide_title=true&hide_border=true&langs_count=1)
 
 
 ### 🏆 백준
